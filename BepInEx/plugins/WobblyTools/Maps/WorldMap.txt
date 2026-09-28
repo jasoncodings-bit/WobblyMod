@@ -1,0 +1,2 @@
+-1455.506 -1554.493 2922.217
+# minX minZ size (metres): the world square WorldMap.png covers. North is up.
